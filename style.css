@@ -95,8 +95,8 @@ h1 {
                     
                   }
                   form{ 
-                    padding: 10px;
-                    margin-bottom: 10px;
+                    padding: 0;
+                    margin-bottom: 5px;
                     background-color:rgb(41, 41, 146);
                     width: 100%;
       }
