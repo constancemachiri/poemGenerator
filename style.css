@@ -1,1 +1,55 @@
 body{background-color: rgb(204, 204, 228);}
+h1 {
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    line-height: 1.5;
+  }
+  .container{
+    margin: 120px auto;
+    max-width: 600px;
+  }
+  form{ 
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    margin-bottom: 30px;
+    background-color:rgb(165, 165, 215);
+    border-radius: 25px;
+
+  }
+  input{
+    padding: 10px;
+    border-radius: 10px;
+    width :400px;
+    margin-right :20px;
+    border-style: none; 
+  }
+  button{
+    padding: 10px;
+    border-radius: 10px;
+    width :100px;
+    margin-right :6px; 
+    border-style: none;
+    background-color: blueviolet;
+  }
+  .poem{
+    font-size: 16px;
+    border-left: 4px blueviolet double;
+    background-color:rgb(165, 165, 215);
+    box-shadow:0px 4px 30px 0px rgb(165, 165, 215) ;
+    padding:30px;
+    line-height: 2;
+    border-radius: 1.5px;
+  }
+  footer{
+    text-align: center;
+    font-size: 12px;
+    padding-top: 10px;
+    color: gray;
+  }
+  a{
+    
+    text-decoration: none;
+  }
