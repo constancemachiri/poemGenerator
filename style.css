@@ -83,7 +83,7 @@ h1 {
                 font-size: 14px;
               }
                 
-              }
+              
               .container {
                 margin: 40px auto;
                 max-width: 90%;
@@ -96,8 +96,9 @@ h1 {
                     
                   }
                   form{ 
+                    box-sizing: border-box;
                     padding: 0;
                     margin-bottom: 5px;
                     background-color:rgb(41, 41, 146);
-                    width: 100%;
-      }
+                    width: 100%;}
+                  }
