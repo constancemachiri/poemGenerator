@@ -8,13 +8,14 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap" rel="stylesheet">
 <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+<script src="https://unpkg.com/axios@1.6.7/dist/axios.min.js"></script>
     <title>Poem</title>
 </head>
 <body>
     <div class="container"><header><h1 id="welcome">WELCOME TO AI POEM GENERATOR </h1></header>
     <main> 
         <form id="form">
-            <input placeholder="type your topic here...." autofocus required autocomplete="off"/>
+            <input tyep="text" id="input" placeholder="type your topic here...." autofocus required autocomplete="off"/>
             <button>Submit</button>
         </form>
         <div class="poem" id="poemspace">your poem will display here </div>
