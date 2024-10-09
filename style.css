@@ -66,39 +66,4 @@ h1 {
         h1{
             font-weight: 100;
             line-height: 1;
-            font-size: 12px;
-        }
-        .poem{
-            font-size: 10px;
-            padding:15px;
-            line-height: 1;}
-            footer{
-               
-                font-size: 10px;
-                
-              }
-              button {
-                padding: 10px 15px;
-                min-width: 100px;
-                font-size: 14px;
-              }
-                
-              
-              .container {
-                margin: 80px auto;
-                max-width: 90%;
-                padding:20px}
-                input{
-                    padding: 10px;
-                
-                    width :100%;
-                    margin-right :0;
-                    
-                  }
-                  form{ 
-                    box-sizing: border-box;
-                    padding: 0;
-                    margin-bottom: 5px;
-                    background-color:rgb(41, 41, 146);
-                    width: 100%;}
-                  }
+                font-size: 12px;        }}
